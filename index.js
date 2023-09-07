@@ -283,6 +283,6 @@ async function addEmployee() {
 }
 
 function quit() {
-    console.log("adios~");
+    console.log("bye-bye~");
     process.exit();
 }
